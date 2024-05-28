@@ -45,7 +45,8 @@ Apply DWT to decompose both the cover image and the secret image into their wave
 Embed the secret image's wavelet coefficients into the cover image's coefficients using the specified alpha value.
 Perform the inverse DWT to reconstruct the stego image from the modified coefficients.
 
-![cover-image](https://github.com/srume/Spread-Spectrum-Steganography-project/blob/main/cover-image.jpg?raw=true)
+<img src="URL_to_image" alt="cover-image" width="100px" height="100px">
+
 
 
 **Evaluation Metrics**:
