@@ -63,7 +63,7 @@ Measures the average squared difference between the original and stego images. L
 
 Evaluates the perceived quality of the stego image by comparing it with the original image. Higher SSI indicates better quality.
 
-<img src="" alt="cover-image" width="125px" height="125px">
+<img src="https://github.com/srume/Spread-Spectrum-Steganography-project/blob/main/SSI-value.jpeg?raw=true" alt="SSI-image" width="200px" height="300px">
 
 **Analysis**:
 
