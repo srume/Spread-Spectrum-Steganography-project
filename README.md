@@ -44,7 +44,11 @@ Resize the secret image to match the dimensions of the cover image.
 Apply DWT to decompose both the cover image and the secret image into their wavelet coefficients.
 Embed the secret image's wavelet coefficients into the cover image's coefficients using the specified alpha value.
 Perform the inverse DWT to reconstruct the stego image from the modified coefficients.
-Evaluation Metrics:
+
+![cover-image]()
+
+
+**Evaluation Metrics**:
 
 **Peak Signal-to-Noise Ratio (PSNR)**: 
 
