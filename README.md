@@ -63,6 +63,8 @@ Measures the average squared difference between the original and stego images. L
 
 Evaluates the perceived quality of the stego image by comparing it with the original image. Higher SSI indicates better quality.
 
+<img src="" alt="cover-image" width="125px" height="125px">
+
 **Analysis**:
 
 By varying the alpha value, we analyze the trade-off between imperceptibility and embedding strength.
